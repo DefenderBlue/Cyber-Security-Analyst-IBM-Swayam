@@ -1,7 +1,7 @@
 # Cyber-Security-Analyst-IBM-Swayam
 
 
-# **Educating and Raising Awareness on OWASP Top 10 Vulnerabilities**  
+# **Project: AI Based Intrusion Detection System**  
  
 
 ---
